@@ -22,10 +22,9 @@ public class Main {
 
     static public int vowelNumber(String str) {
         int cnt = 0;
+        str = str.toLowerCase();
         for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i'
-                    || str.charAt(i) == 'o' || str.charAt(i) == 'u' || str.charAt(i) == 'A' || str.charAt(i) == 'E'
-                    || str.charAt(i) == 'I' || str.charAt(i) == 'O' || str.charAt(i) == 'U') {
+            if("aeiou".indexOf(str.charAt(i)) != -1){
                 cnt++;
             }
         }
@@ -49,10 +48,9 @@ public class Main {
     }
 
     static public boolean allVowel(String str) {
-        for (int i = 0; i < str.length(); i++) {
-            if (!(str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i'
-                    || str.charAt(i) == 'o' || str.charAt(i) == 'u' || str.charAt(i) == 'A' || str.charAt(i) == 'E'
-                    || str.charAt(i) == 'I' || str.charAt(i) == 'O' || str.charAt(i) == 'U')) {
+        str = str.toLowerCase();
+        for(int i = 0; i < str.length(); i++){
+            if("aoeiu".indexOf(str.charAt(i)) == -1){
                 return false;
             }
         }
