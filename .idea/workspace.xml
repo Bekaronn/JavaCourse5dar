@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d3942e-d4de-4640-8aa5-e11403ea0562" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HW 2/HW 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW10/HW10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW11/HW11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW12/HW12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW12/out/production/HW12/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW12/out/production/HW12/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/HW4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/HW5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW6/HW6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/HW7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW8/HW8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW9/HW9.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TZMc3IEi3KYpHAN7pearmxd3Fh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Bekarys/Desktop/Task/Java learning/employee-core-api"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d3942e-d4de-4640-8aa5-e11403ea0562" name="Changes" comment="" />
+      <created>1691246225555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691246225555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
